@@ -71,7 +71,7 @@ node bot.js
 ```
 - Now detach from this screen session using `Ctrl + A`, then press `D`
 
-## 📜 Commands
+## 📜 Commands 
 
 | Command    | Description            |
 |------------|------------------------|
